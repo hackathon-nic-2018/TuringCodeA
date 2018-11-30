@@ -44,3 +44,10 @@ Route::get('/v1/business/location', function () {
 Route::get('/v1/business/tops', function () {
     return file_get_contents(public_path('data/business_tops.json'));
 });
+
+/**
+ * Route Business Tops
+ */
+Route::get('/v1/business/chips', function () {
+    return file_get_contents(public_path('data/business_chips.json'));
+});
