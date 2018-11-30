@@ -15,10 +15,10 @@ class CreateSocialmediaTable extends Migration
     {
         Schema::create('socialmedia', function (Blueprint $table) {
             $table->increments('id');
-            $table->increments('name');
-            $table->increments('url');
-            $table->increments('icon');
-            $table->increments('id_users');
+            $table->string('name');
+            $table->string('url');
+            $table->string('icon');
+            $table->string('id_users');
             $table->timestamps();
         });
     }
