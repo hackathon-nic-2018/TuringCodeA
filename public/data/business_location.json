@@ -1,0 +1,27 @@
+[
+    {
+        "name": "YaVoy",
+        "description": "Almuerzo, Cena, Brunch, Abierto hasta tarde. Reservaciones, Asientos al aire libre, Asiento.",
+        "image": "/assets/media/img/business/1.jpg"
+    },
+    {
+        "name": "Catedral de Leon",
+        "description": "La Real Basílica Catedral de La Asunción de León, construida en el siglo XVIII, es uno de los sitios más visitados.",
+        "image": "/assets/media/img/business/2.jpg"
+    },
+    {
+        "name": "Hotel Sauce Aventure",
+        "description": "La Cooperativa Sauce Aventura nace en el 2010 del contacto con estudiantes extranjeros voluntarios de Enlace Project.",
+        "image": "/assets/media/img/business/4.jpg"
+    },
+    {
+        "name": "Farmacia Value",
+        "description": "La cadena farmacéutica No. 1, a nivel Centroamericano, en el Servicio y Distribución de productos farmacéuticos.",
+        "image": "/assets/media/img/business/3.jpg"
+    },
+    {
+        "name": "Carne Asada EL Gran Hotel",
+        "description": "Km 6 Carretera Norte .  vas encontrar la mejor intención y claro la carne asada, pollo asado.",
+        "image": "/assets/media/img/business/5.jpg"
+    }
+]

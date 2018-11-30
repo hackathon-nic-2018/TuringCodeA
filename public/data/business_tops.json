@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Restaurante",
+        "image": "/assets/media/img/business/1.jpg"
+    },
+    {
+        "name": "Túrismo",
+        "image": "/assets/media/img/business/2.jpg"
+    },
+    {
+        "name": "Establecimientos",
+        "image": "/assets/media/img/business/4.jpg"
+    },
+    {
+        "name": "Hoteles",
+        "image": "/assets/media/img/business/3.jpg"
+    },
+    {
+        "name": "Pequeños negocios",
+        "image": "/assets/media/img/business/5.jpg"
+    }
+]

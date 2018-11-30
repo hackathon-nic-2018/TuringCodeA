@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Conócenos",
+    "description": "Zoneg Nicaragua: es una app para buscar negocios de manera fácil y rápida de encontrar x o y producto si necesidad de moverse del lugar en el que se encuentre y podrá tener comunicación con el establecimiento.",
+    "image": "/assets/media/img/home/walls_hero@2x.png"
+  },
+  {
+    "name": "Bar y Restaurantes",
+    "description": "Conoce los mejores lugares de pasa tiempo, tu familia y amigos puede decidir antes de salir donde distraerse o celebrar lo que deseas con la mejor informacion que te brindamos.",
+    "image": "/assets/media/img/home/food/food.png"
+  },
+  {
+    "name": "Túrismo",
+    "description": "Brindamos la información que necesitas saber, lugares que deseas conocer con sus mejores comodidades.",
+    "image": "/assets/media/img/home/tourims/tourims.png"
+  },
+  {
+    "name": "Hoteles",
+    "description": "Tus desiciones están en tus manos, puedes tener la oportunidad de elegir lo que necesitas, tu comidad es lo primero.",
+    "image": "/assets/media/img/home/hotel/hotel.png"
+  }
+
+]
